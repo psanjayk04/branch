@@ -4,7 +4,7 @@ pipeline {
     stages {
       stage {
         stape {
-          echo "hello world"
+          echo "hello sanjay"
         }
       }
     }
